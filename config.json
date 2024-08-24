@@ -2,8 +2,8 @@
 	"email": "",
 	"password": "",
 	"adminOnly": false,
-	"adminBot": [],
-	"nickNameBot": "",
+	"adminBot": [https://www.facebook.com/matthieu.lumbu.31],
+	"nickNameBot": "PIRATOS",
 	"prefix": "#",
 	"database": {
 		"type": "local",
